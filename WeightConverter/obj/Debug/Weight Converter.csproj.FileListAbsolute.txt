@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight Converter.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight_Converter.Properties.Resources.resources
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight Converter.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight Converter.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight_Converter.WeightConverter.resources
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\bin\Debug\Weight Converter.exe.config
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\bin\Debug\Weight Converter.exe
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\bin\Debug\Weight Converter.pdb
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight Converter.exe
+C:\Users\casse\Desktop\Weight Converter\Weight Converter\obj\Debug\Weight Converter.pdb
